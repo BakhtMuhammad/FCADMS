@@ -1,0 +1,45 @@
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.AssemblyReference.cache
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.SuggestedBindingRedirects.cache
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Farmer.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Fruit.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.NetAmount.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Properties.Resources.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Truck.resources
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.GenerateResource.cache
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.CoreCompileInputs.cache
+D:\Visual Projects\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Home.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.AssemblyReference.cache
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.SuggestedBindingRedirects.cache
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Farmer.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Fruit.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Home.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.NetAmount.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Properties.Resources.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.SignUp.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Truck.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.GenerateResource.cache
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.CoreCompileInputs.cache
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Login.resources
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\bin\Debug\fruitCommissionAgent.exe.config
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\bin\Debug\fruitCommissionAgent.exe
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\bin\Debug\fruitCommissionAgent.pdb
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.exe
+D:\Clients Projects\Fruit Commision Agent\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.pdb
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.AssemblyReference.cache
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.SuggestedBindingRedirects.cache
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Expanditure.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Farmer.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Fruit.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Home.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Login.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.NetAmount.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Properties.Resources.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.SignUp.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.Truck.resources
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.GenerateResource.cache
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.csproj.CoreCompileInputs.cache
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.exe
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\obj\Debug\fruitCommissionAgent.pdb
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\bin\Debug\fruitCommissionAgent.exe.config
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\bin\Debug\fruitCommissionAgent.exe
+D:\Clients Projects\Fruit Commission Agent Final\fruitCommissionAgent\fruitCommissionAgent\bin\Debug\fruitCommissionAgent.pdb
